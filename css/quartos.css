@@ -18,3 +18,30 @@ li {
     text-align: left;
     margin-top: 10px;
 }
+
+
+
+.container-rodape {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.rodape-info {
+    width: 21%;
+    display: flex;
+    align-items: center;
+}
+
+.link-rodape {
+    margin-right: 10px;
+}
+
+.copyright {
+    text-align: center;
+    padding: 15px;
+    border-top: 1px solid #3b7863;
+    color: #fff;
+    font-weight: 600;
+    width: 100%;
+}
