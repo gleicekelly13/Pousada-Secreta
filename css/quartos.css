@@ -45,3 +45,28 @@ li {
     font-weight: 600;
     width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+    .container-rodape {
+        font-size: 16px;
+        margin-left: -13rem;
+    }
+
+    .rodape-info h4 {
+        font-size: 19px;
+        padding-top: 10px;
+    }
+
+    .rodape-info {
+        padding-top: 40px;
+    }
+
+    .rodape-info p {
+        font-size: 15px;
+    }
+
+    .copyright {
+        margin-left: 13rem;
+        font-size: 15px;
+    }
+}

@@ -221,7 +221,7 @@ img {
         position: relative;
     }
 
-    .rodape-info h4 {
+    .rodape-info h4 {  /* alterou a posição do h4 */
         position: absolute;
         top: -20px;
         left: 17rem;
@@ -236,7 +236,7 @@ img {
     }
 
     .contatos {
-       margin-left: -13rem;
+       margin-left: -13rem;  /* deslocou a área dos ícones mais para o lado esquerdo */
         
     }
 
