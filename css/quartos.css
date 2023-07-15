@@ -55,26 +55,40 @@ li {
         font-size: 17px;
     }
 
-    .container-rodape {
-        font-size: 16px;
-        margin-left: -13rem;
+    .container-quartos {
+        padding: 0 40px 0 0 ;
     }
 
-    .rodape-info h4 {
-        font-size: 19px;
-        padding-top: 10px;
+    li {
+        width: 30%; /* Altera a largura dos itens da lista e afeta na quebra de linha */
+    }
+
+    
+}
+
+@media screen and (max-width: 425px) {
+    .secao-container h2 {
+        font-size: 26px;
+    }
+
+    .quartos-img {
+        width: 100%;
+    }
+
+    .container-quartos {
+        margin-left: 30px;
+    }
+
+    ul {
+        justify-content: space-evenly;
+    } 
+
+    li {
+        width: 40%;
     }
 
     .rodape-info {
-        padding-top: 40px;
+        width: 200px;
     }
 
-    .rodape-info p {
-        font-size: 15px;
-    }
-
-    .copyright {
-        margin-left: 13rem;
-        font-size: 15px;
-    }
 }
