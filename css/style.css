@@ -238,3 +238,24 @@ img {
     }
 
 }
+
+@media screen and (max-width: 425px) {
+    body {
+        width: 100%;
+    }
+
+    .container-topo {
+        padding-bottom: 20px;
+    }
+
+    .topo-itens {
+        flex-direction: column;
+        
+    }
+
+    .logo {
+        padding: 10px 0;
+        
+    }
+    
+}
