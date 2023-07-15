@@ -306,12 +306,16 @@ img {
     .contatos {
         flex-direction: column;
         align-items: center;
-
+        
     }
 
     .rodape-info h4 {
-        text-align: center;
-        margin-left: -10rem;
+        margin-left: -12rem;
+    }
+
+    .rodape-info {
+        width: 200px;
+        margin-left: 10rem;
     }
     
 }
