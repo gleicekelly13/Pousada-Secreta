@@ -203,15 +203,38 @@ img {
 
     .link-topo {
         font-size: 17px;
-        padding-right: 25px;
+        padding-right: 40px;
+    }
+
+    .container-capa {
+        width: 100%;
+    }
+
+    .container-quartos {
+        padding: 0 30px;
+    }
+
+    .container-localizacao {
+        width: 90%;
+        margin-left: 20px;
+    }
+
+    .descricoes {
+        flex-direction: column;
     }
 
     .descricao {
-        padding: 0 10px;
+        width: 60%;
+        margin: 0 auto;
     }
+
+    /*.descricao {
+        padding: 0 50px;
+    }*/
 
     .rodape {
         position: relative;
+        width: 100%;
     }
 
     .rodape-info h4 {  /* alterou a posição do h4 */
@@ -245,7 +268,7 @@ img {
     }
 
     .container-topo {
-        padding-bottom: 20px;
+        padding-bottom: 25px;
     }
 
     .topo-itens {
@@ -256,6 +279,10 @@ img {
     .logo {
         padding: 10px 0;
         
+    }
+
+    .secao-container p {
+        padding: 0 20px;
     }
     
 }
