@@ -15,5 +15,12 @@
 </div>
 <br>
 
+## :iphone: Mobile design
+<br>
+<div align="center">
+<img src="https://github.com/gleicekelly13/Pousada-Secreta/assets/80974593/c2b32296-fd15-4d61-874b-fe02e47e4e10.png" width="300"/>
+</div>
+<br>
+
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
