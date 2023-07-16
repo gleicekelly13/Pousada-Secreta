@@ -22,5 +22,10 @@
 </div>
 <br>
 
+<div align="center">
+<img src="https://github.com/gleicekelly13/Pousada-Secreta/assets/80974593/66a75e4e-5fa3-413e-a468-5867f0287f0b.png" width="300"/>
+</div>
+<br>
+
 <h2 align="center">:hourglass: Status do projeto </h2>
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4>
