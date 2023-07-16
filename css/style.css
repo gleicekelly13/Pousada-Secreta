@@ -289,6 +289,10 @@ img {
         border: none;
     }
 
+    .quarto img {
+        width: 120%;
+    }
+
     .descricao {
         flex-direction: column;
         align-items: center;
