@@ -32,6 +32,12 @@
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
 
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>O topo da página permanece fixo na tela, mesmo quando o usuário rola a página.</p>
+<p>A página apresenta navegação tanto para seções internas, quanto para múltiplas páginas.</p>
+<p>A página possui um layout flexível e responsivo, se adaptando a variados tamanhos de telas.</p>
+<br>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
