@@ -38,6 +38,8 @@
 <p>A página possui um layout flexível e responsivo, se adaptando a variados tamanhos de telas.</p>
 <br>
 
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
