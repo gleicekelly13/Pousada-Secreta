@@ -40,7 +40,11 @@
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <ul>
-  <li>Trabalhar com imagens de fundo</li>
+  <li>Trabalhar com imagens de fundo.</li>
+  <li>Criar navegação entre as páginas.</li>
+  <li>Aplicar conceitos de listas.</li>
+  <li>Aplicar conceitos de dimensões e posicionamentos.</li>
+  <li>Utilizar o reaproveitamento de classes.</li></li>
 </ul>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
