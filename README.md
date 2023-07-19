@@ -46,8 +46,14 @@
   <li>Aplicar conceitos de dimensões e posicionamentos.</li>
   <li>Utilizar o reaproveitamento de classes.</li></li>
 </ul>
+<br>
 
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
 <p>CSS3</p>
 <br>
+
+# :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)
+- LinkedIn - [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly1
